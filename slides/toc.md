@@ -2,6 +2,7 @@
 
 #### Redis Cluster
 
+* [Redis Cluster](/#redis_cluster)
 * [Configurando Redis Cluster](/#setting_up_redis_cluster)
 * [Probando Redis Cluster](/#testing_redis_cluster)
 * [Administración de Redis Cluster](/#administrating_redis_cluster)
