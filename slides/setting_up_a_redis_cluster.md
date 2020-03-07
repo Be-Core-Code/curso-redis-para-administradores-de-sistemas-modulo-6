@@ -266,7 +266,7 @@ Según el esquema de nuestro cluster, la réplica debe estar en la instancia de 
 
 #### 💻️ Configurando Redis Cluster
 
-Con el comando [`CLUSTER NODES`](https://redis.io/commands/cluster-nodes) buscamos cuál es ID del maestro que queremos 
+Con el comando [`CLUSTER NODES`](https://redis.io/commands/cluster-nodes) buscamos cuál es el ID del maestro que queremos 
 replicar, nos conectamos a la réplica y ejecutamos:
 
 ```bash 
